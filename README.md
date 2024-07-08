@@ -1,3 +1,25 @@
+# PRODIGY_CS_02
+ image encryption tool using pixel manipulation by performing pixel  swapping operation by creating python program that can encrypt and decrypt image using  pixel values  swapping operation by allowing  users to input an image  to perform encryption and decryption.
+
+ Pixel Manipulation:  
+Pixel manipulation is altering or modifying pixels of an image to achieve a desired result.  The process of 
+modifying the RGB values of each pixel in an image. A digital image is nothing more than data—numbers 
+indicating variations of red, green, and blue at a particular location on a grid of pixels. Most of the time, we 
+view these pixels as miniature rectangles sandwiched together on a computer screen. With a little creative 
+thinking and some lower level manipulation of pixels with code, however, we can display that information in a 
+myriad of ways. 
+
+Image Encryption : 
+Image encryption, fundamentally defined as the process of transforming a plain image into a coded form that 
+can only be deciphered by its intended recipient , has gained increasing importance in response to the growing 
+prevalence of image applications and the transmission of images over the internet and open networks. The 
+critical information embedded within these images necessitates secure protection. 
+
+Operations: 
+Swapping Pixel values 
+Pixel swapping in the context of pixel manipulation refers to the process of exchanging the values of pixels in 
+an image. This can be done in various ways, such as swapping the color channels of each pixel (e.g., swapping 
+the red and blue values) or swapping the positions of two or more pixels in the image.
 
 import tkinter as tk
 from tkinter import filedialog, messagebox
